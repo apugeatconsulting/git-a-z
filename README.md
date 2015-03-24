@@ -1,2 +1,2 @@
-# git-a-z
-Git A-Z
+# Git A-Z
+
